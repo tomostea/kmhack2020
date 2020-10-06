@@ -13,3 +13,6 @@ ESP32より送信されたデータをDBに記録する
 ESP32からのリクエストに基づき、最新の判定結果をDBから取得/JSONとして返却する。
 * showresult2.js
 デバック用API
+
+## 参考
+[Cosmos DB入出力バインドを使ったAzure FunctionsをJavaScriptで実装する - PaaSがかりの部屋](https://k-miyake.github.io/blog/functions-cosmosdb-bindings/)
